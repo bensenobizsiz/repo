@@ -1,3 +1,0 @@
-# hellojenkins
-
-abdullahskartal.com
